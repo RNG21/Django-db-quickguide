@@ -1,5 +1,5 @@
 ## TLDR
-Basically you just define your models in your app's models.py and then do <br>
+Basically you just define your models in your app's `models.py` and then do <br>
 `python manage.py makemigrations` <br>
 `python manage.py migrate` <br>
 and it'll generate the tables in the database.
